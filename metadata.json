@@ -1,0 +1,8 @@
+{
+  "name": "Airline Overbooking Manager",
+  "description": "Academic prototype demonstrating DMGT fare-class partitioning, ADSA B-tree indexing, OOPJ reservation architecture, and Python-driven no-show probability estimation for safe overbooking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
